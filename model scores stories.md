@@ -1,0 +1,5 @@
+- ajouter model de partition des doc de lilypond
+- ajouter des partition
+- ajouter des programmes de concert
+- ajouter un compte social media
+- rails app
