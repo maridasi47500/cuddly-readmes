@@ -1,0 +1,5 @@
+- create a band , wiht a name
+- notes musique avec des couleurs
+- instruments musique
+- partitions
+- faire un tour de la ville
