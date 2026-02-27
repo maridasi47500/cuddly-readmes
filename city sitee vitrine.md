@@ -1,0 +1,2 @@
+- ecrire sites vitrines pour la rue de ta ville
+- ecris chaque site vitrine et decouvre le backend/front end de chaque entreprise /magasin des rues de ta ville
