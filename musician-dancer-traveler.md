@@ -1,0 +1,3 @@
+- fais un website pour fiare un misx de danse / music dans un style "circus" quand tu es en voyage
+- rester en voyage
+- se debrouiller pour tweeter/poster ou developper quelque chose en voyage
